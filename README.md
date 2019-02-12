@@ -1,4 +1,4 @@
-# vue-un
+# express-un
 
 ## Project setup
 ```
